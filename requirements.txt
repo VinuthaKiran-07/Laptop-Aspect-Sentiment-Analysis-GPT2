@@ -1,0 +1,10 @@
+
+torch
+tiktoken
+pandas
+numpy
+scikit-learn
+matplotlib
+gradio
+tensorflow
+tqdm
